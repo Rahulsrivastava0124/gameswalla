@@ -1,0 +1,27 @@
+
+.Celebrities .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #00000031;
+    border-radius: 20px;
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Celebrities .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.Celebrities .swiper-pagination {
+    background-color: #ffffff70;
+    padding: 5px;
+    width: 200px !important;
+    border-radius: 10px;
+    left: 40% !important;
+}
