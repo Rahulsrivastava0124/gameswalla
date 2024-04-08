@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gameswalla/static/css/main.90e01b49.css",
-    "main.js": "/gameswalla/static/js/main.280ce3f5.js",
+    "main.js": "/gameswalla/static/js/main.db956124.js",
     "static/js/453.4d3849a0.chunk.js": "/gameswalla/static/js/453.4d3849a0.chunk.js",
     "static/media/Exchmarket-Logo.png": "/gameswalla/static/media/Exchmarket-Logo.1e682c28230affd5a41a.png",
     "static/media/Casino.png": "/gameswalla/static/media/Casino.2546a50027120211e88e.png",
@@ -44,11 +44,11 @@
     "static/media/Betxhub247.webp": "/gameswalla/static/media/Betxhub247.32b6169e797f5a947b58.webp",
     "index.html": "/gameswalla/index.html",
     "main.90e01b49.css.map": "/gameswalla/static/css/main.90e01b49.css.map",
-    "main.280ce3f5.js.map": "/gameswalla/static/js/main.280ce3f5.js.map",
+    "main.db956124.js.map": "/gameswalla/static/js/main.db956124.js.map",
     "453.4d3849a0.chunk.js.map": "/gameswalla/static/js/453.4d3849a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90e01b49.css",
-    "static/js/main.280ce3f5.js"
+    "static/js/main.db956124.js"
   ]
 }
