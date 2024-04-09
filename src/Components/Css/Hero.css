@@ -1,4 +1,4 @@
-.swiper {
+.heroSwiper .swiper {
     width: 90%;
     height: 100%;
 }
@@ -30,16 +30,16 @@
 }
 
 @media only screen and (max-width: 600px) {
-.swiper{
+.heroSwiper .swiper{
     height: 200px !important;
     width: 97% !important;
 }
-    .swiper-slide img{
+    .heroSwiper .swiper-slide img{
 
         object-fit: fill !important;
     }
 
-    .swiper-pagination{
+    .heroSwiper .swiper-pagination{
         display: none !important;
     }
 }

@@ -19,7 +19,8 @@ import 'swiper/css/pagination';
 export default function Hero() {
   return (
     <>
-      <Swiper modules={[Navigation, Pagination, Scrollbar, A11y,Autoplay]}
+      <Swiper
+          modules={[Navigation, Pagination, Scrollbar, A11y,Autoplay]}
       spaceBetween={50}
       slidesPerView={1}
       autoplay={{

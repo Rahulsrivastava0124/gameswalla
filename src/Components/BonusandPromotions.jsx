@@ -1,5 +1,5 @@
 import React from "react";
-import image from '../Images/Casino.png'
+import PhoneApp from '../Images/PhoneApp.png'
 import master from '../Images/master card.png'
 import visa from '../Images/visa.png'
 import paypal from '../Images/paypal.png'
@@ -46,11 +46,8 @@ export const BonusandPromotions = () => {
                             <p>The mobile version of Exchmarket contains features that include placing bets, checking your wallet balance, depositing and withdrawing, watching live matches, and checking live scores. You can also receive notifications on bonuses and promotions. The app has a user-friendly interface that any user would find easier to adapt to.</p>
 
                         </div>
-                        <div className="mockup-phone w-[20rem] ">
-                            <div className="camera"></div>
-                            <div className="display">
-                                <div className="artboard artboard-demo phone-1"><img src={image}/></div>
-                            </div>
+                        <div className=" w-[30rem] ">
+                           <img src={PhoneApp} alt={"Phone App"} className='h-[30rem] m-auto'/>
                         </div>
                     </div>
                     <div>

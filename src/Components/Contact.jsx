@@ -11,7 +11,7 @@ export const Contact = () => {
                     <div className="md:flex justify-center items-center hidden md:d-block">
                         <img src={logo} alt="logo" className="w-[10rem] m-auto md:m-0"/>
                         <h1 className="md:text-3xl text-2xl mb-6">
-                            <span className="text-yellow-400">GAMES</span><span className="text-blue-500">WALLA</span>.COM
+                            <span className="text-yellow-400">GAMES</span><span className="text-blue-800">WALLA</span>.COM
                         </h1>
                     </div>
                     <div className="justify-center ">

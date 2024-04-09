@@ -49,7 +49,7 @@ export default function BettingCard(props) {
                 <a
                 href={props.data.getAccount}
                   type="button"
-                  className="inline-flex items-center rounded-md bg-blue-600 ml-4 px-2 py-1 text-sm font-semibold text-white hover:bg-blue-700"
+                  className="inline-flex items-center rounded-md bg-red-600 ml-4 px-2 py-1 text-sm font-semibold text-white hover:bg-red-700"
                 >
              Get Account
 
