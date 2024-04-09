@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c546a4c2.css",
-    "main.js": "/static/js/main.efe05430.js",
+    "main.js": "/static/js/main.3277f029.js",
     "static/js/453.6131837d.chunk.js": "/static/js/453.6131837d.chunk.js",
     "static/media/PhoneApp.png": "/static/media/PhoneApp.79b0df6d72a76bed4c8f.png",
     "static/media/Exchmarket-Logo.png": "/static/media/Exchmarket-Logo.1e682c28230affd5a41a.png",
@@ -53,11 +53,11 @@
     "static/media/Betxhub247.webp": "/static/media/Betxhub247.32b6169e797f5a947b58.webp",
     "index.html": "/index.html",
     "main.c546a4c2.css.map": "/static/css/main.c546a4c2.css.map",
-    "main.efe05430.js.map": "/static/js/main.efe05430.js.map",
+    "main.3277f029.js.map": "/static/js/main.3277f029.js.map",
     "453.6131837d.chunk.js.map": "/static/js/453.6131837d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c546a4c2.css",
-    "static/js/main.efe05430.js"
+    "static/js/main.3277f029.js"
   ]
 }
