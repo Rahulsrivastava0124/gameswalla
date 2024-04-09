@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.626996ee.css",
-    "main.js": "/static/js/main.d00bded1.js",
-    "static/js/453.4d3849a0.chunk.js": "/static/js/453.4d3849a0.chunk.js",
+    "main.css": "/static/css/main.c546a4c2.css",
+    "main.js": "/static/js/main.efe05430.js",
+    "static/js/453.6131837d.chunk.js": "/static/js/453.6131837d.chunk.js",
+    "static/media/PhoneApp.png": "/static/media/PhoneApp.79b0df6d72a76bed4c8f.png",
     "static/media/Exchmarket-Logo.png": "/static/media/Exchmarket-Logo.1e682c28230affd5a41a.png",
     "static/media/Casino.png": "/static/media/Casino.2546a50027120211e88e.png",
     "static/media/roulette.gif": "/static/media/roulette.345b14f5862bf5aa14ef.gif",
@@ -11,20 +12,27 @@
     "static/media/Slide4.webp": "/static/media/Slide4.d55b9824fea2897f1bc5.webp",
     "static/media/Slide1.webp": "/static/media/Slide1.a8f106f363c734c1740b.webp",
     "static/media/Slide5.webp": "/static/media/Slide5.db99d158a250bb5eb785.webp",
+    "static/media/BHIM.png": "/static/media/BHIM.bc4c86fa65371e534ce4.png",
     "static/media/contactme.png": "/static/media/contactme.13da4cb34535487a7759.png",
     "static/media/DarkBackground.png": "/static/media/DarkBackground.c3ca4f8fb6575d6f7bd5.png",
     "static/media/AdSlide1.webp": "/static/media/AdSlide1.5e3fd9ff8ffec779e35e.webp",
     "static/media/CardBackground.png": "/static/media/CardBackground.318c4c83fff4a138879a.png",
     "static/media/GuideBetting.webp": "/static/media/GuideBetting.fe7ee4dccbc3b1c44b54.webp",
     "static/media/sports.png": "/static/media/sports.ec440dfa6571193a532b.png",
+    "static/media/support.png": "/static/media/support.742caae5101d98ae2c49.png",
     "static/media/cryptocurrency.png": "/static/media/cryptocurrency.ce2777667f08ac4e6b04.png",
+    "static/media/phonepe.png": "/static/media/phonepe.e5d8a5b16edf6431e6d8.png",
     "static/media/ssexchange.webp": "/static/media/ssexchange.0267a9357c37fca97f5b.webp",
     "static/media/10-minutes.png": "/static/media/10-minutes.7960eaa9e1dad07cd826.png",
     "static/media/Step1.png": "/static/media/Step1.ea407e60abe2c2c2530f.png",
     "static/media/Sky-Exchange-Logo.webp": "/static/media/Sky-Exchange-Logo.68e4f0fb858e1679cdd6.webp",
     "static/media/slot-machine.png": "/static/media/slot-machine.ebb02de2415b7ff68b71.png",
+    "static/media/google-pay.png": "/static/media/google-pay.851fc93336bdc00c0e63.png",
+    "static/media/easy.png": "/static/media/easy.34ab5dd20cda7d3f7e2f.png",
     "static/media/blackjack.png": "/static/media/blackjack.c5e51fe9f3c234f592e3.png",
     "static/media/visa.png": "/static/media/visa.4d7319f4e6647a6340ef.png",
+    "static/media/secure-data.png": "/static/media/secure-data.76a2dd2ac9e49229efb2.png",
+    "static/media/mobile-app.png": "/static/media/mobile-app.efa1f13d9a3ce9751ec3.png",
     "static/media/cricket.png": "/static/media/cricket.97824906e0d904eb0780.png",
     "static/media/AdSlide3.webp": "/static/media/AdSlide3.0be1c896577ba5b909ea.webp",
     "static/media/football.png": "/static/media/football.547a766a2af7902c9842.png",
@@ -34,6 +42,7 @@
     "static/media/paypal.png": "/static/media/paypal.25b341e7e8db7bd5e1e5.png",
     "static/media/dog.png": "/static/media/dog.9cb348506acc3c8f5d7f.png",
     "static/media/baccarat.png": "/static/media/baccarat.4657791f0dcf9e53e1ba.png",
+    "static/media/verified-webpage.png": "/static/media/verified-webpage.76656935345d7f3b790e.png",
     "static/media/AdSlide2.webp": "/static/media/AdSlide2.640a2f2380f519c5e64e.webp",
     "static/media/AdSlide4.webp": "/static/media/AdSlide4.ecf320b35bccfd994356.webp",
     "static/media/satsport.webp": "/static/media/satsport.0203a8dd9ba95fdb1868.webp",
@@ -43,12 +52,12 @@
     "static/media/lotusbook247.webp": "/static/media/lotusbook247.4f43431f17b964d81172.webp",
     "static/media/Betxhub247.webp": "/static/media/Betxhub247.32b6169e797f5a947b58.webp",
     "index.html": "/index.html",
-    "main.626996ee.css.map": "/static/css/main.626996ee.css.map",
-    "main.d00bded1.js.map": "/static/js/main.d00bded1.js.map",
-    "453.4d3849a0.chunk.js.map": "/static/js/453.4d3849a0.chunk.js.map"
+    "main.c546a4c2.css.map": "/static/css/main.c546a4c2.css.map",
+    "main.efe05430.js.map": "/static/js/main.efe05430.js.map",
+    "453.6131837d.chunk.js.map": "/static/js/453.6131837d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.626996ee.css",
-    "static/js/main.d00bded1.js"
+    "static/css/main.c546a4c2.css",
+    "static/js/main.efe05430.js"
   ]
 }
