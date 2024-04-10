@@ -60,10 +60,7 @@ const navigation = [
     current: false,
     dropdown: true,
     dropdownList: [
-      {
-        name: "GamesWalla .net ",
-        url: "",
-      },
+
       {
         name: "Cricket Betting Sites",
         url: "",
@@ -75,6 +72,10 @@ const navigation = [
       {
         name: " Pro kabaddi Betting ",
         url: "",
+      },
+      {
+        name:"Horse Racing Betting sites",
+        url:"",
       },
       {
         name: "Tehnis Betting Sites",
@@ -129,7 +130,7 @@ export default function Navbar() {
               </svg>
             </div>
             <ul tabIndex={0}
-                className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+                className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-64">
               {
                 navigation.map((data,index)=>{
                   return (
