@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c546a4c2.css",
-    "main.js": "/static/js/main.3277f029.js",
+    "main.css": "/static/css/main.c2fdf977.css",
+    "main.js": "/static/js/main.6293ec5f.js",
     "static/js/453.6131837d.chunk.js": "/static/js/453.6131837d.chunk.js",
     "static/media/PhoneApp.png": "/static/media/PhoneApp.79b0df6d72a76bed4c8f.png",
-    "static/media/Exchmarket-Logo.png": "/static/media/Exchmarket-Logo.1e682c28230affd5a41a.png",
+    "static/media/Exchmarket-Logo.png": "/static/media/Exchmarket-Logo.f9379b662af0a9cd5003.png",
     "static/media/Casino.png": "/static/media/Casino.2546a50027120211e88e.png",
     "static/media/roulette.gif": "/static/media/roulette.345b14f5862bf5aa14ef.gif",
     "static/media/Slide2.webp": "/static/media/Slide2.6b8e0613a6d07dac3881.webp",
@@ -18,6 +18,7 @@
     "static/media/AdSlide1.webp": "/static/media/AdSlide1.5e3fd9ff8ffec779e35e.webp",
     "static/media/CardBackground.png": "/static/media/CardBackground.318c4c83fff4a138879a.png",
     "static/media/GuideBetting.webp": "/static/media/GuideBetting.fe7ee4dccbc3b1c44b54.webp",
+    "static/media/whatsapp.png": "/static/media/whatsapp.d026940870fb334920b7.png",
     "static/media/sports.png": "/static/media/sports.ec440dfa6571193a532b.png",
     "static/media/support.png": "/static/media/support.742caae5101d98ae2c49.png",
     "static/media/cryptocurrency.png": "/static/media/cryptocurrency.ce2777667f08ac4e6b04.png",
@@ -52,12 +53,12 @@
     "static/media/lotusbook247.webp": "/static/media/lotusbook247.4f43431f17b964d81172.webp",
     "static/media/Betxhub247.webp": "/static/media/Betxhub247.32b6169e797f5a947b58.webp",
     "index.html": "/index.html",
-    "main.c546a4c2.css.map": "/static/css/main.c546a4c2.css.map",
-    "main.3277f029.js.map": "/static/js/main.3277f029.js.map",
+    "main.c2fdf977.css.map": "/static/css/main.c2fdf977.css.map",
+    "main.6293ec5f.js.map": "/static/js/main.6293ec5f.js.map",
     "453.6131837d.chunk.js.map": "/static/js/453.6131837d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c546a4c2.css",
-    "static/js/main.3277f029.js"
+    "static/css/main.c2fdf977.css",
+    "static/js/main.6293ec5f.js"
   ]
 }
