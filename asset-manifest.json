@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c94a52e.css",
-    "main.js": "/static/js/main.6f0daa9f.js",
+    "main.css": "/static/css/main.dc24294f.css",
+    "main.js": "/static/js/main.e530270a.js",
     "static/js/453.6131837d.chunk.js": "/static/js/453.6131837d.chunk.js",
     "static/media/PhoneApp.png": "/static/media/PhoneApp.79b0df6d72a76bed4c8f.png",
     "static/media/Exchmarket-Logo.png": "/static/media/Exchmarket-Logo.f9379b662af0a9cd5003.png",
@@ -53,12 +53,12 @@
     "static/media/lotusbook247.webp": "/static/media/lotusbook247.4f43431f17b964d81172.webp",
     "static/media/Betxhub247.webp": "/static/media/Betxhub247.32b6169e797f5a947b58.webp",
     "index.html": "/index.html",
-    "main.6c94a52e.css.map": "/static/css/main.6c94a52e.css.map",
-    "main.6f0daa9f.js.map": "/static/js/main.6f0daa9f.js.map",
+    "main.dc24294f.css.map": "/static/css/main.dc24294f.css.map",
+    "main.e530270a.js.map": "/static/js/main.e530270a.js.map",
     "453.6131837d.chunk.js.map": "/static/js/453.6131837d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c94a52e.css",
-    "static/js/main.6f0daa9f.js"
+    "static/css/main.dc24294f.css",
+    "static/js/main.e530270a.js"
   ]
 }
