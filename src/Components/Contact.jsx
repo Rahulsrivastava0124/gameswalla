@@ -6,7 +6,7 @@ export const Contact = () => {
     return (
         <div className="md:my-16 mb-8">
             <h1 className=" text-2xl md:text-4xl font-bold text-gray-800  md:my-16  divider divider-error mx-8 md:mx-72 rounded-2xl my-4 ">Contact </h1>
-            <div className="flex  border border-red-500 md:mx-16 mx-2 rounded-md bg-red-500 text-black">
+            <div className="flex  border border-red-500 md:mx-16 mx-2 rounded-md bg-red-800 text-black">
                 <div className="md:px-4 px-2 md:m-8  rounded-md w-[100%]">
                     <div className="md:flex justify-center items-center hidden md:d-block">
                         <img src={logo} alt="logo" className="w-[10rem] m-auto md:m-0"/>

@@ -119,7 +119,7 @@ const navigation = [
 
 export default function Navbar() {
   return (
-      <div className="navbar bg-red-600 sticky top-0 z-10">
+      <div className="navbar bg-red-800 sticky top-0 z-10">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -181,7 +181,7 @@ export default function Navbar() {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="bg-base-100 rounded-full p-3"><BellIcon className={"h-6"}/></a>
+          <a className="bg-base-100 rounded-full p-2 mr-3"><BellIcon className={"h-6"}/></a>
         </div>
       </div>
   );

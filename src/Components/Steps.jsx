@@ -48,11 +48,8 @@ export const Steps = () => {
 
                         <img src={Step1} alt="Step1"   className="w-12 h-12 text-deep-purple-accent-400 sm:w-40 sm:h-40" />
                         </div>
-                        <h6 className="mb-2 text-2xl font-extrabold">Step 1</h6>
-                        <p className="max-w-md mb-3 text-sm text-gray-900 sm:mx-auto">
-                            Lookout flogging bilge rat main sheet bilge water nipper fluke to go
-                            on account heave down clap
-                        </p>
+                        <h6 className="mb-2 text-2xl font-extrabold">Submit the Form</h6>
+
 
                         <div className="top-0 right-0 flex items-center justify-center h-56 lg:-mr-8 lg:absolute">
                             <svg
@@ -85,11 +82,8 @@ export const Steps = () => {
 
                            <img src={Step2} alt="step2"/>
                         </div>
-                        <h6 className="mb-2 text-2xl font-extrabold">Step 2</h6>
-                        <p className="max-w-md mb-3 text-sm text-gray-900 sm:mx-auto">
-                            They urge you to put down your sword and come join the winners. In
-                            22 years the only 'winners'
-                        </p>
+                        <h6 className="mb-2 text-2xl font-extrabold">The support team will contact you  </h6>
+
 
                         <div className="top-0 right-0 flex items-center justify-center h-56 lg:-mr-8 lg:absolute">
                             <svg
@@ -122,12 +116,7 @@ export const Steps = () => {
 
                           <img  src={Step3} alt="step3" className="w-12 h-12 text-deep-purple-accent-400 sm:w-40 sm:h-40"/>
                         </div>
-                        <h6 className="mb-2 text-2xl font-extrabold">Step 3</h6>
-                        <p className="max-w-md mb-3 text-sm text-gray-900 sm:mx-auto">
-                            Tell them I hate them. Is the Space Pope reptilian!? Tell her she
-                            looks thin. Hello, little man
-                        </p>
-
+                        <h6 className="mb-2 text-2xl font-extrabold">Get your ID in 2 Min.</h6>
                     </div>
                 </div>
             </div>

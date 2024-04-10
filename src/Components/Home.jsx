@@ -8,6 +8,8 @@ import {Steps} from "./Steps";
 import {MostPopularSports} from "./MostPopularSports";
 import {Contact} from "./Contact";
 import {BonusandPromotions} from "./BonusandPromotions";
+import {About} from "./About";
+import {Whatsapp} from "./Whatsapp";
 
 export const Home = () => {
     return (
@@ -23,6 +25,8 @@ export const Home = () => {
             <Steps/>
             <MostPopularSports/>
             <BonusandPromotions/>
+            <About/>
+            <Whatsapp/>
 
         </>
     )
