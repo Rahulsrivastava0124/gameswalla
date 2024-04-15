@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.74ee6922.css",
-    "main.js": "/static/js/main.8d337871.js",
+    "main.css": "/static/css/main.24a4364d.css",
+    "main.js": "/static/js/main.eb4a51d1.js",
     "static/js/453.6131837d.chunk.js": "/static/js/453.6131837d.chunk.js",
     "static/media/Slide2.png": "/static/media/Slide2.8df88e3de07d379fde79.png",
     "static/media/PhoneApp.png": "/static/media/PhoneApp.79b0df6d72a76bed4c8f.png",
@@ -69,12 +69,12 @@
     "static/media/lotusbook247.webp": "/static/media/lotusbook247.4f43431f17b964d81172.webp",
     "static/media/Betxhub247.webp": "/static/media/Betxhub247.32b6169e797f5a947b58.webp",
     "index.html": "/index.html",
-    "main.74ee6922.css.map": "/static/css/main.74ee6922.css.map",
-    "main.8d337871.js.map": "/static/js/main.8d337871.js.map",
+    "main.24a4364d.css.map": "/static/css/main.24a4364d.css.map",
+    "main.eb4a51d1.js.map": "/static/js/main.eb4a51d1.js.map",
     "453.6131837d.chunk.js.map": "/static/js/453.6131837d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74ee6922.css",
-    "static/js/main.8d337871.js"
+    "static/css/main.24a4364d.css",
+    "static/js/main.eb4a51d1.js"
   ]
 }
