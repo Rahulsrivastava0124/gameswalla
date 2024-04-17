@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.68be390b.css",
-    "main.js": "/static/js/main.62ac3601.js",
+    "main.js": "/static/js/main.0a804ead.js",
     "static/js/453.6131837d.chunk.js": "/static/js/453.6131837d.chunk.js",
     "static/js/312.a65a5eef.chunk.js": "/static/js/312.a65a5eef.chunk.js",
     "static/media/Slide2.png": "/static/media/Slide2.8df88e3de07d379fde79.png",
     "static/media/PhoneApp.png": "/static/media/PhoneApp.79b0df6d72a76bed4c8f.png",
-    "static/media/Slide1.png": "/static/media/Slide1.a270c688f4af34a4a5ca.png",
     "static/media/Slide4.png": "/static/media/Slide4.3678ebdfd5d44ac02037.png",
     "static/media/Exchmarket-Logo.png": "/static/media/Exchmarket-Logo.f9379b662af0a9cd5003.png",
     "static/media/Slide3.png": "/static/media/Slide3.20982aa65b49e293dcb5.png",
+    "static/media/Slide1.png": "/static/media/Slide1.fd1244dfbff9ee693a75.png",
     "static/media/Slide5.png": "/static/media/Slide5.c9d05cdf4f54ceed54fa.png",
     "static/media/GuideBetting.webp": "/static/media/GuideBetting.649ed317e5d3f20aa9b1.webp",
     "static/media/AdSlide2.png": "/static/media/AdSlide2.4baee02e1d443f176c3d.png",
@@ -73,12 +73,12 @@
     "static/media/Betxhub247.webp": "/static/media/Betxhub247.32b6169e797f5a947b58.webp",
     "index.html": "/index.html",
     "main.68be390b.css.map": "/static/css/main.68be390b.css.map",
-    "main.62ac3601.js.map": "/static/js/main.62ac3601.js.map",
+    "main.0a804ead.js.map": "/static/js/main.0a804ead.js.map",
     "453.6131837d.chunk.js.map": "/static/js/453.6131837d.chunk.js.map",
     "312.a65a5eef.chunk.js.map": "/static/js/312.a65a5eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68be390b.css",
-    "static/js/main.62ac3601.js"
+    "static/js/main.0a804ead.js"
   ]
 }
