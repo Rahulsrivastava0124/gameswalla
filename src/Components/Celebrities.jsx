@@ -1,12 +1,12 @@
-import AdSlide1 from '../Images/AdSlide1.webp'
-import AdSlide2 from '../Images/AdSlide2.webp'
-import AdSlide3 from '../Images/AdSlide3.webp'
-import AdSlide4 from '../Images/AdSlide4.webp'
+import AdSlide1 from '../Images/AdSlide1.png'
+import AdSlide2 from '../Images/AdSlide2.png'
+import AdSlide3 from '../Images/AdSlide3.png'
+import AdSlide4 from '../Images/AdSlide4.png'
 import './Css/Celebrities.css'
 // import Swiper core and required modules
-import { Pagination, A11y } from 'swiper/modules';
+import { Pagination, A11y,Autoplay } from 'swiper/modules';
 
-import { Swiper, SwiperSlide } from 'swiper/react';
+import { Swiper, SwiperSlide, } from 'swiper/react';
 
 // Import Swiper styles
 import 'swiper/css';
@@ -21,10 +21,27 @@ export const Celebrities = () => {
             </h1>
             <Swiper
                 // install Swiper modules
-                modules={[Pagination, A11y]}
+                modules={[Pagination, A11y,Autoplay]}
                 spaceBetween={50}
-                slidesPerView={3}
-
+                slidesPerView={1}
+                autoplay={{
+                            delay: 2500,
+                            disableOnInteraction: false,
+                        }}
+                breakpoints={{
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 40,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 50,
+          },
+        }}
                 pagination={{clickable: true}}
                 className="Celebrities w-[80%]"
             >

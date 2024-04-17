@@ -1,78 +1,60 @@
 export const TopBettingSites = () => {
     const TableList=[
         {
-            bookmark:'GamesWalla.NET',
+            bookmark:'Casino Games',
             bonus:'Welcome 100%',
-            turnover:'Turnover: 5 x Deposit Amount\n' +
-                '\n',
-            minOdds:'No Min.',
-            link:''
+            link:'https://wa.link/8l2fxm'
         },
         {
-            bookmark:'SS Exchange',
+            bookmark:'BlackJack',
             bonus:'Welcome 100%',
-            turnover:'Turnover: 3 x Deposit Amount\n' +
-                '\n',
-            minOdds:'No Min.',
-            link:''
+            link:'https://wa.link/8l2fxm'
         },
         {
-            bookmark:'SKY EXCHANGE',
+            bookmark:'Roulette',
             bonus:'Welcome 5% to 20%',
-            turnover:'Turnover: 3 x Deposit Amount',
-            minOdds:'No Min.',
-            link:''
+            link:'https://wa.link/8l2fxm'
         },
         {
-            bookmark:'MONY777',
+            bookmark:'Slot Games',
             bonus:'Welcome 7% to 20%',
-            turnover:'Turnover: 3 x Deposit Amount',
-            minOdds:'No Min.',
-            link:''
+            link:'https://wa.link/8l2fxm'
         },
         {
-            bookmark:'SATFAIR',
+            bookmark:'Sport Games',
             bonus:'Welcome 10% to 20%',
-            turnover:'Turnover: 3 x Deposit Amount',
-            minOdds:'2.0',
-            link:''
+            link:'https://wa.link/8l2fxm'
         },
         {
-            bookmark:'LOTUSBOOK247',
+            bookmark:'Cricket',
             bonus:'Welcome 10% to 20%',
-            turnover:'Turnover: 3 x Deposit Amount',
-            minOdds:'2.0',
-            link:''
+            link:'https://wa.link/8l2fxm'
         },
         {
-            bookmark:'BETXHUB247',
+            bookmark:'Football',
             bonus:'Welcome 10% to 20%',
-            turnover:'Turnover: 3 x Deposit Amount',
-            minOdds:'2.0',
-            link:''
+            link:'https://wa.link/8l2fxm'
         },
         {
-            bookmark:'SATSPORT',
+            bookmark:'Horse Racing ',
             bonus:'Welcome 10% to 20%',
-            turnover:'Turnover: 3 x Deposit Amount',
-            minOdds:'2.0',
-            link:''
+            link:'https://wa.link/8l2fxm'
         },
         {
-            bookmark:'SATSPORT247',
+            bookmark:'Kabaddi',
             bonus:'Welcome 100%',
-            turnover:'Turnover: 3 x Deposit Amount',
-            minOdds:'No Min.',
-            link:''
+            link:'https://wa.link/8l2fxm'
         },
         {
-            bookmark:'DIAMOND EXCHANGE',
+            bookmark:'Tennis',
             bonus:'Welcome 10% to 20%',
-            turnover:'Turnover: 3 x Deposit Amount',
-            minOdds:'2.0',
-            link:''
+            link:'https://wa.link/8l2fxm'
         },
-
+        {
+            bookmark:'Grayhound',
+            bonus:'Welcome 10% to 20%',
+            link:'https://wa.link/8l2fxm'
+        },
 
     ]
     return (
@@ -87,8 +69,6 @@ export const TopBettingSites = () => {
                             <th>RANK</th>
                             <th>BOOKMAKER</th>
                             <th className='hidden md:table-cell'>BONUS</th>
-                            <th className='hidden md:table-cell'>TURNOVER</th>
-                            <th className='hidden md:table-cell'> MIN ODDS</th>
                             <th> LINK</th>
                         </tr>
                         </thead>
@@ -99,8 +79,6 @@ export const TopBettingSites = () => {
                                     <th className='text-gray-500'>{index+1}</th>
                                     <td className="font-bold ">{item.bookmark}</td>
                                     <td className="text-base hidden md:table-cell">{item.bonus}</td>
-                                    <td className="text-base hidden md:table-cell">{item.turnover}</td>
-                                    <td className="text-base hidden md:table-cell">{item.minOdds}</td>
                                     <td><a href={item.link} className='btn rounded-lg btn-sm btn-outline btn-error'>Get Bonus</a></td>
                                 </tr>
                             ))

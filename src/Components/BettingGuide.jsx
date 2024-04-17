@@ -5,14 +5,14 @@ export const BettingGuide = () => {
         <>
             <h1 className=" text-2xl md:text-4xl font-bold text-red-700 my-6 bg-gray-200 p-3 mx-8 md:mx-16 rounded-2xl">India's Most Comprehensive Betting
                 Guide.</h1>
-    <div className="md:my-12 my-8 md:mx-16 mx-8">
+    <div className="md:my-12 my-8 md:mx-16 mx-6">
         <div className="flex flex-wrap sm:mt-10  ">
-        <div className=" md:w-[45%] w-[100%] mr-6">
-                    <img src={GuideBetting} alt="guide_photo " className="sm:h-[100%] rounded-2xl"/>
+        <div className=" md:w-[45%] w-[100%] md:mr-6">
+                    <img src={GuideBetting} alt="guide_photo " className="sm:h-[100%] rounded-2xl object-contain"/>
                 </div>
                 <div className="md:w-[50%] w-auto p-6 text-start ">
                     <p className="mb-2">
-    We have created GamesWalla.com in order to help you gamble legally and profitably in India. We’ll provide you with step-by-step guides on everything from choosing the right best betting sites to becoming a profitable player and making safe bets.
+    We have created GamesWalla.in in order to help you gamble legally and profitably in India. We’ll provide you with step-by-step guides on everything from choosing the right best betting sites to becoming a profitable player and making safe bets.
 </p>
                     <p className="mb-2">
     The Exchange Market is a prominent platform for online betting in India with instant withdrawal. It features various<span className="text-blue-600"> online betting options for both new and expert betting players</span>. Here betting players can easily find the right betting site.

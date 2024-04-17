@@ -28,7 +28,7 @@ export default function WelcomeTo() {
           <h1 className="text-2xl mb-2">Welcome to</h1>
           <h1 className="md:text-4xl text-2xl mb-6">
             <span className="text-yellow-400">GAMES</span>
-            <span className="text-blue-500">WALLA</span>.COM
+            <span className="text-blue-500">WALLA</span>.in
           </h1>
           <p className="text-md">
             We have created this website in order to help you gamble legally and
@@ -36,9 +36,9 @@ export default function WelcomeTo() {
             about everything from choosing the right bookmaker to becoming a
             profitable player
           </p>
-          <button className="btn btn-outline btn-primary my-4 hover:text-gray-50">
+          <a href='https://wa.link/8l2fxm' className="btn btn-outline btn-primary my-4 hover:text-gray-50">
             Get Bonus Account
-          </button>
+          </a>
         </div>
       </div>
     </>

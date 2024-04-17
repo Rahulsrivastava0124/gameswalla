@@ -14,20 +14,17 @@ import {Whatsapp} from "./Whatsapp";
 export const Home = () => {
     return (
         <>
-
             <Hero />
             <Contact/>
-            <BettingSites/>
+            <MostPopularSports/>
             <WelcomeTo/>
             <TopBettingSites/>
             <Celebrities/>
             <BettingGuide/>
             <Steps/>
-            <MostPopularSports/>
             <BonusandPromotions/>
             <About/>
             <Whatsapp/>
-
         </>
     )
 }

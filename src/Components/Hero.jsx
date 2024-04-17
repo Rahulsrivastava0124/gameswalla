@@ -1,9 +1,9 @@
 import React from 'react';
-import Slide1 from '../Images/Slide1.webp'
-import Slide2 from '../Images/Slide2.webp'
-import Slide3 from '../Images/Slide3.webp'
-import Slide4 from '../Images/Slide4.webp'
-import Slide5 from '../Images/Slide5.webp'
+import Slide1 from '../Images/Slide1.png'
+import Slide2 from '../Images/Slide2.png'
+import Slide3 from '../Images/Slide3.png'
+import Slide4 from '../Images/Slide4.png'
+import Slide5 from '../Images/Slide5.png'
 import './Css/Hero.css'
 
 // import Swiper core and required modules
@@ -29,12 +29,18 @@ export default function Hero() {
         }}
       navigation
       pagination={{ clickable: true }}
-     className="heroSwiper w-[90%] mt-4 rounded-[20px]">
-        <SwiperSlide><img src={Slide1} alt="Slider1"/></SwiperSlide>
-        <SwiperSlide><img src={Slide2} alt="Slider1"/></SwiperSlide>
-        <SwiperSlide><img src={Slide3} alt="Slider1"/></SwiperSlide>
-        <SwiperSlide><img src={Slide4} alt="Slider1"/></SwiperSlide>
-        <SwiperSlide><img src={Slide5} alt="Slider1"/></SwiperSlide>
+     className="heroSwiper  md:h-[620px] h-[250px] relative  bg-[url('./Images/heroBackground.png')] bg-no-repeat bg-cover bg-center">
+        <SwiperSlide><img src={Slide1} alt="Slider1" className={'object-contain'}/></SwiperSlide>
+        <SwiperSlide><img src={Slide2} alt="Slider1" className='object-contain'/></SwiperSlide>
+        <SwiperSlide><img src={Slide3} alt="Slider1" className='object-contain'/></SwiperSlide>
+        <SwiperSlide><img src={Slide4} alt="Slider1" className='object-contain'/></SwiperSlide>
+        <SwiperSlide><img src={Slide5} alt="Slider1" className='object-contain'/></SwiperSlide>
+          {/*<div className={'border w-[25rem] flex bg-gray-100 justify-around m-auto rounded-t-2xl absolute z-[100] bottom-0 start-[35rem]'}>*/}
+          {/*    <h2 className={'text-2xl '}>*/}
+          {/*        Get a New Account*/}
+          {/*    </h2>*/}
+          {/*    <button className={'btn btn-error rounded-full'}> Get Account </button>*/}
+          {/*</div>*/}
       </Swiper>
     </>
   );
