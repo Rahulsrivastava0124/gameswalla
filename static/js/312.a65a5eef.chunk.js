@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgameswalla=self.webpackChunkgameswalla||[]).push([[312],{9312:(e,s,a)=>{a.r(s),a.d(s,{default:()=>d});var n=a(5117),l=a(5043),r=a(579);const c=()=>(0,r.jsx)(n.es,{children:(0,r.jsx)(n.b7,{name:"App",children:(0,r.jsx)(n.uA,{name:"Loader",children:(0,r.jsx)(n.KT,{children:(0,r.jsx)(t,{})})})})});function t(){return(0,r.jsx)(l.Fragment,{children:"Loading..."})}const d=()=>(0,r.jsx)(n.m8,{palette:(0,r.jsx)(c,{})})}}]);
+//# sourceMappingURL=312.a65a5eef.chunk.js.map
